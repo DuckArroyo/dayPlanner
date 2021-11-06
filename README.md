@@ -25,6 +25,6 @@ Added moment date and hour.
 
 ## Screenshots
 
-<img src="./screenshots/challenge5Full.png" style="width: 400px">
-<img src="./screenshots/challenge5Typed.png" style="width: 400px">
-<img src="./screenshots/challenge5Saved.png" style="width: 400px">
+<img src="./screenshots/Challenge5Full.png" style="width: 400px">
+<img src="./screenshots/Challenge5Typed.png" style="width: 400px">
+<img src="./screenshots/Challenge5Saved.png" style="width: 400px">
