@@ -10,8 +10,6 @@ https://duckarroyo.github.io/challenge5/
 Repo link
 https://github.com/DuckArroyo/challenge5
 
-## Screenshots
-
 ## Work Notes
 
 Added moment date and hour.
@@ -24,3 +22,9 @@ Added moment date and hour.
 - items delete by emptying the box and "saving"
   Color coding
 - past, present, future conditions color code the boxes
+
+## Screenshots
+
+<img src="challenge5Full.png" style="width: 400px">
+<img src="challenge5Typed.png" style="width: 400px">
+<img src="challenge5Saved.png" style="width: 400px">
