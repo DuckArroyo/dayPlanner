@@ -2,7 +2,7 @@
 
 ## UO Coding bootcamp Challenge 5
 
-# Links
+## Links
 
 Github Pages [Link](https://duckarroyo.github.io/challenge5/)
 
