@@ -6,26 +6,39 @@
 
 ## Description
 
-5. Third-Party APIs Challenge: Work Day Scheduler
+## UO Coding bootcamp Challenge 5
 
-# Links
+## Links
 
 [Github Pages](https://duckarroyo.github.io/dayPlanner)
 
 [Github Repository](https://github.com/DuckArroyo/dayPlanner)
 
-## Work Notes
+## Description
 
-Added moment date and hour.
+This is a day planner that stores information in local storage. Times are color coded depending on the time of day
 
-- displays current date and hour.
-  Coded blocks of time.
-- simplified IDs to avoid converting to local storage and back.
-  Storage is persistent
-- items persist on page refresh
-- items delete by emptying the box and "saving"
-  Color coding
-- past, present, future conditions color code the boxes
+## Project Guidelines/Requirements
+
+None 
+
+## Required installations for code duplication
+
+None
+
+# Contributions by:
+
+DeveloperDuckArroyo
+
+[Portfolio](https://duckarroyo.github.io/challenge2/)
+
+[GitHub](https://github.com/DuckArroyo)
+
+[Twitter @DevDuckArroyo](https://twitter.com/DevDuckArroyo)
+
+[LinkeIn](https://www.linkedin.com/in/duckarroyo/)
+
+[CodePen](https://codepen.io/DeveloperDuckArroyo)
 
 # Contributions by:
 
