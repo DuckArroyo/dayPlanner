@@ -1,14 +1,18 @@
-# challenge5
+# Day Planner
+
+![GitHublicense](https://img.shields.io/npm/l/express?style=for-the-badge)
+
+## UO Coding bootcamp Challenge
+
+## Description
 
 5. Third-Party APIs Challenge: Work Day Scheduler
 
 # Links
 
-Application link
-https://duckarroyo.github.io/challenge5/
+[Github Pages](https://duckarroyo.github.io/dayPlanner)
 
-Repo link
-https://github.com/DuckArroyo/challenge5
+[Github Repository](https://github.com/DuckArroyo/dayPlanner)
 
 ## Work Notes
 
@@ -22,6 +26,24 @@ Added moment date and hour.
 - items delete by emptying the box and "saving"
   Color coding
 - past, present, future conditions color code the boxes
+
+# Contributions by:
+
+DeveloperDuckArroyo
+
+[Email](mailto:DeveloperDuckArroyo@gmail.com)
+
+[Portfolio](https://github.com/DuckArroyo/portfolio)
+
+[React Portfolio](http://DuckArroyo.github.io/reactPortfolio)
+
+[GitHub](https://github.com/DuckArroyo)
+
+[Twitter @DevDuckArroyo](https://twitter.com/DevDuckArroyo)
+
+[LinkeIn](https://www.linkedin.com/in/duckarroyo)
+
+[CodePen](https://codepen.io/DeveloperDuckArroyo)
 
 ## Screenshots
 
