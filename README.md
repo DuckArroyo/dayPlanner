@@ -4,9 +4,7 @@
 
 ## UO Coding bootcamp Challenge
 
-## Description
-
-## UO Coding bootcamp Challenge 5
+UO Coding bootcamp Challenge 5
 
 ## Links
 
@@ -20,7 +18,7 @@ This is a day planner that stores information in local storage. Times are color 
 
 ## Project Guidelines/Requirements
 
-None 
+None
 
 ## Required installations for code duplication
 
