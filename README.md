@@ -28,20 +28,6 @@ None
 
 DeveloperDuckArroyo
 
-[Portfolio](https://duckarroyo.github.io/challenge2/)
-
-[GitHub](https://github.com/DuckArroyo)
-
-[Twitter @DevDuckArroyo](https://twitter.com/DevDuckArroyo)
-
-[LinkeIn](https://www.linkedin.com/in/duckarroyo/)
-
-[CodePen](https://codepen.io/DeveloperDuckArroyo)
-
-# Contributions by:
-
-DeveloperDuckArroyo
-
 [Email](mailto:DeveloperDuckArroyo@gmail.com)
 
 [Portfolio](https://github.com/DuckArroyo/portfolio)
